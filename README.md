@@ -21,3 +21,7 @@ Herramientas: Las herramientas estaran en todo el bosque y podras agarrarlas dur
             Bengala-> Inicialmente no se empezara con bengalas (exepto Panda que empezara con 2). Esta, con 3 movimientos, iluminara con una distacia de 3
             manhattans una posicion random del mapa. Durante la activacion de la bengala no se podra activar ni desactivar ningun elemento (la bengala inclusive) 
             hasta que se consuman los 3 movimientos.
+Controles: Movimiento-> W-A-S-D
+           Herramientas (activar y desactivar)-> L(linterna), E(bengala) y V (vela)
+           Tiempo-> podes chequear el tiempo transcurrido con T
+           (los comandos son solo con letra mayuscula y cada vez que se efectue un movimiento pulsar ENTER)
