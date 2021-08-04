@@ -1,6 +1,10 @@
 # osos-contra-reloj-tp2
 juego de tp2
 
+Para compilar juego -> gcc juego.c osos_contra_reloj.c test_de_personalidad .c utiles.o -o juego -std=c99 -Wall -Wconversion
+-Werror -lm
+Para correr juego -> ./juego
+
 Osos contra reloj es un juego de tipo arcade
 El juego consiste en encontrar a chloe en un bosque en la oscuridad de la noche. El jugador que, basado en una pequeña ecuesta, podra ser cualquiera de los 3 osos escandalosos (Polar, Pardo o Panda), tendra que buscar a nuestra amiga en el menor tiempo posible utilizando las herramientas de su mochila y evadiendo los obstaculos de el bosque.
 
